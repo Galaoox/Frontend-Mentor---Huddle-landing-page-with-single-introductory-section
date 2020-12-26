@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+:root{
+    --violet :hsl(257, 40%, 49%);
+    --soft-magenta: hsl(300, 69%, 71%);
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+html,body{
+    font-family: 'Poppins', sans-serif;
+}
+
+@media screen and (max-width: 375px) { 
+
+ }
+
+ @media screen and (max-width: 1440px) { 
+    
+}
